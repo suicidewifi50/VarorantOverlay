@@ -71,3 +71,4 @@ Packed with powerful features like **Aimbot, Wallhack, ESP, Triggerbot, Visual E
 | **Stream-safe?**                 | Yes, works with OBS & Discord.                |
 | **Support?**                     | Access via our loader community.             |
 | **Can I customize visuals?**     | Yes, Chams, transparency & overlays included. |
+ 
