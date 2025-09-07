@@ -72,3 +72,4 @@ Packed with powerful features like **Aimbot, Wallhack, ESP, Triggerbot, Visual E
 | **Support?**                     | Access via our loader community.             |
 | **Can I customize visuals?**     | Yes, Chams, transparency & overlays included. |
  
+ 
