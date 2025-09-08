@@ -73,3 +73,4 @@ Packed with powerful features like **Aimbot, Wallhack, ESP, Triggerbot, Visual E
 | **Can I customize visuals?**     | Yes, Chams, transparency & overlays included. |
  
  
+ 
